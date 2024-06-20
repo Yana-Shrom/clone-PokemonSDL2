@@ -1,0 +1,6 @@
+1/Bulbasaur{0.7,6.9,type(Plant,Poison)}
+2/Charmander{0.6,8.5,type(Fire)}
+3/Squirtle{0.5,9.0,type(Water)}
+4/Chenipan{0.3,2.9,type(Insect)}
+5/Aspicot{0.3,3.2,type(Insect,Poison)}
+6/Pikachu{0.4,6.0,type(Electric)}
