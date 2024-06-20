@@ -1,5 +1,5 @@
 Pokémon Adventure
-Développé par Cedric Lemen et Abdourahmane Ouari
+Développé par Cedric Lemene et Abdourahmane Ouari
 Description
 
 Pokémon Adventure est un jeu minimaliste inspiré de l'univers Pokémon. Dans ce jeu, les joueurs peuvent explorer un monde en 2D, capturer des Pokémon et combattre des Pokemon.
